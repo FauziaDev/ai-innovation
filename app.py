@@ -84,3 +84,4 @@ if st.button("SEND"):
 
     else:
         st.warning("Please type a message first")
+        
